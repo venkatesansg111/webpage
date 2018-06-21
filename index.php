@@ -1,6 +1,6 @@
 <?php 
 		include_once('assets/includes/_settings.php');
-		$site['page']['title'] = 'Home';
+		$site['page']['title'] = 'UAT';
 		//$site['page']['articletitle'] = '';
 		$site['page']['current']['section'] = 'home';
 		//$site['page']['current']['page'] = '';
