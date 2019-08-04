@@ -9,7 +9,7 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1>-----------Master New build---------</h1>
+<h1>-----------Master---------</h1>
 
 
 <p>
